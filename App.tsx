@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import BudgetDashboard from './components/BudgetDashboard';
 import Chatbot from './components/Chatbot';
@@ -44,7 +43,7 @@ const App: React.FC = () => {
           <div className="flex items-center gap-3">
             <WalletIcon className="h-8 w-8 text-emerald-400" />
             <h1 className="text-2xl font-bold tracking-tight text-white">
-              Gemini Budget Buddy
+              Smart Budget
             </h1>
           </div>
         </div>
