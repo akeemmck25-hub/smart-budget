@@ -1,0 +1,5 @@
+{
+  "name": "smart budget",
+  "description": "A personal budget tracker application that integrates a Gemini-powered chatbot for financial advice and an AI image generator to visualize your financial goals.",
+  "requestFramePermissions": []
+}
